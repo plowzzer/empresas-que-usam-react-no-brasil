@@ -66,7 +66,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Buscapé](https://www.buscape.com.br) | São Paulo, SP | Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 [Caju Benefícios](https://caju.com.br) | São Paulo, SP | React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
 [Cappta](https://cappta.com.br) | São Paulo, SP | React Native, Redux
-[CARGOBR](https://cargobr.com/) | Barueri, SP | McFly
+[CARGOBR](https://cargobr.com/) | Barueri, SP | Redux, Jest, Cypress, Gatsby, Styled Components, Webpack, Hooks
 [Catho](https://www.catho.com.br) | Barueri, SP | CSS Modules, Jest, Redux, Storybook, Webpack
 [Cedro Technologies](http://www.cedrotech.com/) | São Paulo, SP<br/>Uberlândia, MG | React-Native, Redux
 [CESAR](http://www.cesar.org.br/) | Recife, PE | React-Native
